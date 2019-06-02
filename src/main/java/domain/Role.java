@@ -1,4 +1,6 @@
-package hello;
+package domain;
+
+import enums.ROLES;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -11,11 +13,11 @@ public class Role {
     @Id
     @GeneratedValue(strategy=GenerationType.AUTO)
     private int id;
-    private String userType;
+    private ROLES userType;
 
     protected Role() {}
 
-    public Role(String userType) {
+    public Role(ROLES userType) {
         this.userType = userType;
     }
 
@@ -34,7 +36,7 @@ public class Role {
         return id;
     }
 
-    public String getUserType() {
+    public ROLES getUserType() {
         return userType;
     }
 }

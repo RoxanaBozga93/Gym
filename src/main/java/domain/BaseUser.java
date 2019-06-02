@@ -1,5 +1,7 @@
 // tag::sample[]
-package hello;
+package domain;
+
+import enums.ROLES;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -17,29 +19,29 @@ public class BaseUser {
     private String email;
     private String pass;
     private String phone;
-    private Role idRole;
+    private ROLES roles;
 
     protected BaseUser() {}
 
-    public BaseUser(String firstName, String lastName, String email, String pass, String phone, Role idRole) {
+    public BaseUser(String firstName, String lastName, String email, String pass, String phone, ROLES roles) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
         this.pass = pass;
         this.phone = phone;
-        this.idRole = idRole;
+        this.roles = roles;
     }
 
     @Override
     public String toString() {
-        return "BaseUser{" +
+        return "BaseUserRepoInterface{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", email='" + email + '\'' +
                 ", pass='" + pass + '\'' +
                 ", phone='" + phone + '\'' +
-                ", idRole=" + idRole +
+                ", idRole=" + roles +
                 '}';
     }
 
@@ -70,8 +72,8 @@ public class BaseUser {
         return phone;
     }
 
-    public Role getIdRole() {
-        return idRole;
+    public ROLES getIdRole() {
+        return roles;
     }
 }
 

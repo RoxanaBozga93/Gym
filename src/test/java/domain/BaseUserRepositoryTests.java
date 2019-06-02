@@ -14,35 +14,31 @@
  * limitations under the License.
  */
 
-package hello;
+package domain;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import java.util.List;
-
-import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
-import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @DataJpaTest
 public class BaseUserRepositoryTests {
-    @Autowired
-    private TestEntityManager entityManager;
-
-    @Autowired
-    private CustomerRepository customers;
-
-    @Test
-    public void testFindByLastName() {
-        BaseUser baseUser = new BaseUser("first", "last");
-        entityManager.persist(baseUser);
-
-        List<BaseUser> findByLastName = customers.findByLastName(baseUser.getLastName());
-
-        assertThat(findByLastName).extracting(BaseUser::getLastName).containsOnly(baseUser.getLastName());
-    }
+//    @Autowired
+//    private BaseUserRepository baseUserEntity;
+//
+//    @Autowired
+//    private BaseUserRepoInterface baseUser;
+//
+//    @Test
+//    public void testFindByLastName() {
+//        domain.Role user = new domain.Role(ROLES.USER);
+//        domain.BaseUser baseUser = new domain.BaseUser("first", "last", "email", "pass", "23467656", user);
+//        baseUserEntity.persist(baseUser);
+//
+//        List<domain.BaseUser> findByLastName = baseUser.findByLastName(baseUser.getLastName());
+//
+//        assertThat(findByLastName).extracting(domain.BaseUser::getLastName).containsOnly(baseUser.getLastName());
+//    }
 }
