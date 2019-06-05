@@ -1,0 +1,5 @@
+
+Nsquid:S2160"+Override the "equals" method in this class.(Ð¸ïìúÿÿÿÿ8Èƒ†œ²-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ¢˜Îüÿÿÿÿ8âûøÊ²-
+ssquid:UselessImportCheck"CRemove this unused import 'org.springframework.data.annotation.Id'.(áŠ¿¸ýÿÿÿÿ8ºš¯Ë²-
+Ysquid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(––Øï
