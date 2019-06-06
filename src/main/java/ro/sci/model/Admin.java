@@ -1,16 +1,17 @@
 package ro.sci.model;
 
+import org.springframework.data.annotation.Id;
 import ro.sci.enums.ROLES;
 
 import javax.persistence.*;
 
 @Entity
-//@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
-//@Table(name = "admin")
-public class Admin extends BaseUser {
+@Table(name = "Admin")
+public class Admin extends User {
 
-    public Admin(String firstName, String lastName, String email, String pass, String phone, ROLES roles){
-        super(firstName, lastName, email, pass, phone, roles);
-    }
+
+
+
+
 
 }
