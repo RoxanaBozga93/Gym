@@ -14,7 +14,7 @@ public class UserController {
     @GetMapping("/user")
     public String greeting(@RequestParam(name="email", required=true, defaultValue="World") String email,
                            @RequestParam(name="pass", required=false) String pass, Model model) {
-        User user = new User(12L, "Ion", "Mester", "Ion.Mester@yahoo.com", "pass", "23453657", ROLES.USER);
+        User user = new User("Ion", "Mester", "Ion.Mester@yahoo.com", "pass", "23453657", ROLES.USER);
 //        model.addAttribute("email", user.getEmail());
 //        model.addAttribute("firstName", user.getFirstName());
 //        model.addAttribute("lastName", user.getLastName());
