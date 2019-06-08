@@ -33,8 +33,6 @@ T
 $src/main/java/ro/sci/model/User.java,0\b\0baa387c3fdaf2b734d05d601f3ac7f890e898b5
 W
 'src/main/java/ro/sci/model/Trainer.java,8\0\80e78e018a0fbb63a3805a632b23340ce128b08d
-X
-(src/main/java/ro/sci/model/BaseUser.java,2\6\2669a5008ca22bcae74071a57c0b4c42ee893c34
 a
 1src/main/java/ro/sci/repo/CustomerRepository.java,4\b\4b3bf3501f9b35f2b2520852482a3f15a8e93b42
 ]
@@ -63,3 +61,5 @@ d
 0src/main/java/ro/sci/service/ReportsService.java,5\3\53c8f77305660da5a935f6ec7cb4ae34d22a5b84
 ^
 .src/main/java/ro/sci/service/ClassService.java,0\f\0f1c67b3a9cf9b91003c2473cf5bb16096995911
+c
+3src/main/java/ro/sci/controller/UserController.java,d\c\dcd18e1492043e6796f7816295da33692b2d1fe5

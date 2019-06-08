@@ -4,10 +4,11 @@ import ro.sci.enums.ROLES;
 
 
 import javax.persistence.*;
+import javax.validation.constraints.NotBlank;
 import java.util.Objects;
 
 @Entity
-@Table(name = "Users1")
+@Table(name = "UsersTable")
 @Inheritance(
         strategy = InheritanceType.JOINED
 )
@@ -17,24 +18,28 @@ public class User  {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
+//    @NotBlank(message = "First name is mandatory")
     private String firstName;
+
+//    @NotBlank(message = "Last name is mandatory")
     private String lastName;
+//    @NotBlank(message = "Email is mandatory")
     private String email;
+//    @NotBlank(message = "Password is mandatory")
     private String pass;
+//    @NotBlank(message = "Phone is mandatory")
     private String phone;
-    private ROLES roles;
 
     public User(){
 
     }
 
-    public User(String firstName, String lastName, String email, String pass, String phone, ROLES roles) {
+    public User(String firstName, String lastName, String email, String pass, String phone) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
         this.pass = pass;
         this.phone = phone;
-        this.roles = roles;
     }
 
 
@@ -91,13 +96,6 @@ public class User  {
         this.phone = phone;
     }
 
-    public ROLES getRoles() {
-        return roles;
-    }
-
-    public void setRoles(ROLES roles) {
-        this.roles = roles;
-    }
 
     @Override
     public String toString() {
@@ -108,7 +106,6 @@ public class User  {
                 ", email='" + email + '\'' +
                 ", pass='" + pass + '\'' +
                 ", phone='" + phone + '\'' +
-                ", roles=" + roles +
                 '}';
     }
 

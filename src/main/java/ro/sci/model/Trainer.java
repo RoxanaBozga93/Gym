@@ -1,9 +1,6 @@
 package ro.sci.model;
 
 
-import org.springframework.data.annotation.Id;
-import ro.sci.enums.ROLES;
-
 import javax.persistence.*;
 
 @Entity
@@ -12,15 +9,17 @@ public class Trainer extends User {
 
 
     private String speciality;
-    private int fee;
+    private float salary;
 
 
+    public Trainer() {
+    }
 
     @Override
     public String toString() {
         return "Trainer{" +
                 "speciality='" + speciality + '\'' +
-                ", fee=" + fee +
+                ", salary=" + salary +
                 '}';
     }
 
@@ -28,7 +27,15 @@ public class Trainer extends User {
         return speciality;
     }
 
-    public int getFee() {
-        return fee;
+    public float getSalary() {
+        return salary;
+    }
+
+    public void setSpeciality(String speciality) {
+        this.speciality = speciality;
+    }
+
+    public void setSalary(float salary) {
+        this.salary = salary;
     }
 }
