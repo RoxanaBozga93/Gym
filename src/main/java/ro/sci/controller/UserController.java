@@ -19,13 +19,13 @@ public class UserController {
     @GetMapping("/user")
     public String userForm(@Valid User user, BindingResult result, Model model) {
 //        user = new User("Ion", "Mester", "Ion.Mester@yahoo.com", "pass", "23453657");
-//        model.addAttribute("email", user.getEmail());
-//        model.addAttribute("firstName", user.getFirstName());
-//        model.addAttribute("lastName", user.getLastName());
-
-//        model.addAttribute("user1", user);
-////        model.addAttribute("dd", email);
-////        model.addAttribute("ff", pass);
+////        model.addAttribute("email", user.getEmail());
+////        model.addAttribute("firstName", user.getFirstName());
+////        model.addAttribute("lastName", user.getLastName());
+//
+////        model.addAttribute("user1", user);
+//////        model.addAttribute("dd", email);
+//////        model.addAttribute("ff", pass);
 
         if (result.hasErrors()) {
             return "user";
@@ -40,4 +40,5 @@ public class UserController {
         userService.save(user);
         return "result_user";
     }
+
 }

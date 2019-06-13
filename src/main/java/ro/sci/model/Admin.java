@@ -9,6 +9,10 @@ import javax.persistence.*;
 @Table(name = "Admin")
 public class Admin extends User {
 
+    public Admin(){
+
+    }
+
     public Admin(String firstName, String lastName, String email, String pass, String phone) {
         super(firstName, lastName, email, pass, phone);
     }
