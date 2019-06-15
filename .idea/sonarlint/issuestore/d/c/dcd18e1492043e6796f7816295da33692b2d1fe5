@@ -1,5 +1,9 @@
 
-^squid:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(È»¾¦8€¾é¯³-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«¤­ëÿÿÿÿÿ8ÐÄ¼´-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Äãç´8ú°Ð¼´-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üçÞ¤8ú°Ð¼´-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÙ‡Û8æÞ«‹µ-
+^squid:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(È»¾¦8ÌàÑŒµ-
+nsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(áçíøÿÿÿÿÿ8¼¡óŒµ-
+^squid:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(²µÝô8æÃÖµ-
+nsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ã÷éþÿÿÿÿ8Ã¾ªŒµ-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(‹¼Ç¦8ÐÄ¼´-
+csquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(­©ðÒùÿÿÿÿ8ÌàÑŒµ-
+dsquid:S1226S"AIntroduce a new variable instead of reusing the parameter "user".(ÚÀá¼üÿÿÿÿ8æ†Ùµ-

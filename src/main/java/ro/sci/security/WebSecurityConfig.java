@@ -40,7 +40,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .and()
                 .formLogin()
                 .loginPage("/login")
-                .usernameParameter("email")
                 .permitAll()
                 .and()
                 .logout()
@@ -56,9 +55,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.inMemoryAuthentication()
-                .withUser("user").password("pass").roles("USER")
+                .withUser("user").password("password").roles("USER")
                 .and()
-                .withUser("admin").password("pass").roles("ADMIN");
+                .withUser("admin").password("password").roles("ADMIN");
     }
 
 //    @Bean

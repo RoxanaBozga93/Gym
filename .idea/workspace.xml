@@ -32,10 +32,11 @@
       <change afterPath="$PROJECT_DIR$/../jdbc-example/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jdbc-example/lib/postgresql-42.2.5.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FestivalGateHomework" beforeDir="false" afterPath="$PROJECT_DIR$/../FestivalGateHomework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/071e7f49b060f44f47cffb5a81f1dc5afc54f6f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/071e7f49b060f44f47cffb5a81f1dc5afc54f6f2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity4_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0ab66672fbd32cd2cea2d4b2f9b915d28fac367b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0ab66672fbd32cd2cea2d4b2f9b915d28fac367b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0baa387c3fdaf2b734d05d601f3ac7f890e898b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0baa387c3fdaf2b734d05d601f3ac7f890e898b5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/750232a5754e72ac0acd9bde17a0314a244f0d1c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80e78e018a0fbb63a3805a632b23340ce128b08d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80e78e018a0fbb63a3805a632b23340ce128b08d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99d39df951c3b2dcd39ebf4c64ff6d83c54fbeb0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99d39df951c3b2dcd39ebf4c64ff6d83c54fbeb0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfaa66739e047ab2de894f3ba0f4b79482b499a6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfaa66739e047ab2de894f3ba0f4b79482b499a6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d99f132d291421d42b3226c7f85c3f9f6a579a4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d99f132d291421d42b3226c7f85c3f9f6a579a4c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcd18e1492043e6796f7816295da33692b2d1fe5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcd18e1492043e6796f7816295da33692b2d1fe5" afterDir="false" />
@@ -43,22 +44,27 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gs-accessing-data-jpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gs-accessing-data-jpa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/controller/ErrorController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/controller/ErrorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/controller/LoginController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/model/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/model/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/model/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/security/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/sci/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/sci/service/UserService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gs-accessing-data-jpa-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/gs-accessing-data-jpa-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gs-accessing-data-jpa-0.1.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/gs-accessing-data-jpa-0.1.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/1/8/189fbe6ae9c148c1a5e8c60184f3358b5b55ac05" beforeDir="false" afterPath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/1/8/189fbe6ae9c148c1a5e8c60184f3358b5b55ac05" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/3/0/300d889f1ddbf4b0740d37a51c037904ccc1f7c1" beforeDir="false" afterPath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/3/0/300d889f1ddbf4b0740d37a51c037904ccc1f7c1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/3/6/36940565cded8143c51c50d88ff1ea76b7957f0b" beforeDir="false" afterPath="$PROJECT_DIR$/../Library4/.idea/sonarlint/issuestore/3/6/36940565cded8143c51c50d88ff1ea76b7957f0b" afterDir="false" />
@@ -87,28 +93,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="1105">
+              <caret line="82" column="40" selection-start-line="81" selection-end-line="82" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,17 +107,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="343">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,13 +126,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/enums/ROLES.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Trainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -152,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            <state relative-caret-position="612">
+              <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,37 +177,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -224,11 +221,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/enums/FREQUENCE.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/enums/WEEKDAYS.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/CustomerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/Schedule.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cgf.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/repo/TrainerRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/repo/AdminRepository.java" />
@@ -239,8 +234,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/userRegistration" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/Greeting.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/result.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/user.html" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/result_greeting.html" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/GreetingController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/security/RestAuthenticationEntryPoint.java" />
@@ -257,7 +250,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/trainer.html" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/service/TrainerService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/WebMvcConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/security/LoggingAccessDeniedHandler.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/layout.html" />
@@ -268,13 +260,18 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/error/access-denied.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/css/main.css" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/user/allUsers.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/user.html" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/sci/model/User.java" />
       </list>
     </option>
   </component>
@@ -297,6 +294,11 @@
           <item name="gs-accessing-data-jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gs-accessing-data-jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -313,7 +315,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,6 +356,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sci" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-accessing-data-jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gym" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sci" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gs-accessing-data-jpa" type="b2602c69:ProjectViewProjectNode" />
@@ -415,17 +425,27 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gs-accessing-data-jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gym" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560274327122" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560446165744" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/Gym-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -504,7 +524,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23825504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,7 +534,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.44617563" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -534,31 +554,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.3295302" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/BaseUser.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/GymClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -727,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/result_user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
@@ -805,23 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Trainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/security/LoggingAccessDeniedHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -865,16 +837,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/ErrorController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" selection-start-line="11" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error/access-denied.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -896,40 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -937,10 +865,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/result_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/allUsers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/repo/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="82" column="40" selection-start-line="81" selection-end-line="82" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,31 +909,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="527">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/enums/ROLES.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Admin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/Trainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/security/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/sci/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

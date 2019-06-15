@@ -75,7 +75,5 @@ f
 6src/main/java/ro/sci/controller/TrainerController.java,a\7\a745b252b26bae7fb8289b08952686cb1630db31
 d
 4src/main/java/ro/sci/security/WebSecurityConfig.java,0\a\0ab66672fbd32cd2cea2d4b2f9b915d28fac367b
-d
-4src/main/java/ro/sci/controller/LoginController.java,7\5\750232a5754e72ac0acd9bde17a0314a244f0d1c
 m
 =src/main/java/ro/sci/security/LoggingAccessDeniedHandler.java,7\9\796022be46043806131d241cfd820ed2afdc1049

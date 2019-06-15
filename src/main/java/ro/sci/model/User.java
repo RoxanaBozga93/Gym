@@ -30,16 +30,24 @@ public class User  {
 //    @NotBlank(message = "Phone is mandatory")
     private String phone;
 
+
+    private ROLES roles;
+
     public User(){
 
     }
 
-    public User(String firstName, String lastName, String email, String pass, String phone) {
+    public ROLES getRoles() {
+        return roles;
+    }
+
+    public User(String firstName, String lastName, String email, String pass, String phone, ROLES USER) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
         this.pass = pass;
         this.phone = phone;
+        this.roles = ROLES.USER;
     }
 
 
@@ -77,7 +85,6 @@ public class User  {
     public void setEmail(String email) {
         this.email = email;
     }
-
 
     public String getPass() {
         return pass;
